@@ -57,7 +57,9 @@ To automate the process of:
 
 
 Autorep.py
+
 student_report.pdf
+
 README.md
 
 
@@ -111,10 +113,15 @@ The generated PDF includes:
 ## 📈 Sample Data Used
 
 text
+
 Amit   – 78
+
 Sneha  – 85
+
 Rahul  – 67
+
 Pooja  – 90
+
 Karan  – 74
 
 
