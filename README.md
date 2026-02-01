@@ -131,6 +131,11 @@ Karan  – 74
 
 This project is open-source and intended for **educational and academic use**.
 
+## Output
+
+<img width="493" height="335" alt="Image" src="https://github.com/user-attachments/assets/fd764d84-e783-4c6f-8995-d2ffda230470" />
+
+
 
 
 
